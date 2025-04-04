@@ -11,7 +11,7 @@ width: 100%;
 .titulo-principal{
     text-transform: uppercase;
     text-align: center;
-    color: rgb(187, 179, 179);
+    color: rgb(255, 255, 255);
     background-color: rgb(0, 0, 0);
 
     padding: 30px;
@@ -19,7 +19,7 @@ width: 100%;
 }
 
 .titulo2{
-    color: rgb(163, 157, 157);
+    color: rgb(255, 255, 255);
     text-transform: uppercase;
     text-align: center;
     background-color: rgb(0, 0, 0);
@@ -35,7 +35,7 @@ width: 100%;
     }
 
     .beneficios{
-        color: blanchedalmond;
+        color: rgb(243, 243, 243);
         background-color: black;
     }
     ul{
