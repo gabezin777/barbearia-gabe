@@ -17,3 +17,12 @@ width: 100%;
     padding: 50px;
     margin: 0%;
 }
+
+.titulo2{
+    color: blue;
+    text-transform: uppercase;
+    text-align: center;
+    background-color: blanchedalmond;
+    padding: 50%;
+    margin: 0%;
+}
