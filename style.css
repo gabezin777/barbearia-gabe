@@ -39,5 +39,18 @@ width: 100%;
         background-color: black;
     }
     ul{
-        
+     display: inline-block;
+        vertical-align: top;
+        width: 20%;
+        margin-right: 15%;
+    }
+
+    .intens{ /ITENS DA LISTA- CADA BOLHA*/
+         font-style: italic;
+
+
+    }
+
+    .imagembeneficios{/*IMAGEM DO HOMEM BARBUDO*/
+        width: 50%;
     }
